@@ -11,6 +11,7 @@ function App() {
       <div>
         <button>Projects</button>
         <button>Curiosities</button>
+        
       </div>
     </>
   )
